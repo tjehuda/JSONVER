@@ -1,7 +1,3 @@
 {
-  "version": [
-    {
-      "current": 1
-    }  
-  ]
+  "version": [ { "current": 1, "previous": "0" } ]
 }
